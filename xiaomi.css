@@ -1,0 +1,116 @@
+/*
+* @Author: lenovo
+* @Date:   2018-01-24 11:49:47
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-01-24 20:59:37
+*/
+.box{
+	width: 157px;
+	height: 325px;
+	border-radius:20px; 
+	background: #F4F4F4;
+	border: 2px solid #5c5c5c;
+	float: left;
+    
+}
+.shanghbu{
+	width: 157px;
+	height: 27px;
+	background: #F4F4F4;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	overflow: hidden;
+ 	
+}
+.xiaomi{
+	
+	width: 9px;
+	height: 15px;
+	left:18px;
+	top: 14px;
+	position: absolute;
+	
+}
+.pingmu{
+    width: 9px;
+	height: 13px;
+    margin-left: 3px;
+}
+.yuan{
+	width: 9px;
+	height: 3px;
+	background: #212121;
+	border-radius: 30px;
+	margin-left: 42px;
+	margin-top: 13px;
+	float: left;
+
+}
+.tuoyuan{
+	width: 25px;
+	height: 4px;
+	background: #212121;
+	margin-left: 66px;
+	margin-top:13px; 
+	border-radius: 30px;
+	position: absolute;
+	float: left;
+
+}
+.xiangji{
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: #212121;
+	margin-left: 127px;
+	margin-top:10px;
+	 margin-bottom: 5px;
+	 margin-right: 24px;
+	position: absolute;s
+	float: left;
+}
+.dibu{
+
+	margin-left: 5px;
+    margin-top: 252px;
+
+
+  }
+ .beimian{
+ 	width: 157px;
+	height: 325px;
+	border-radius:20px; 
+	background: #F4F4F4;
+	border: 2px solid #5c5c5c;
+	float: left;
+	margin-left: 20px;
+
+ }
+ .houshexiangtou{
+ 	width: 24px;
+ 	height: 24px;
+ 	border-radius:4px;
+ 	background: #1d1e19;
+    margin: 0 auto;
+    margin-top: 22px;
+ }
+ .shoudiant{
+ 	width: 10px;
+ 	height: 10px;
+ 	border-radius:2px;
+ 	background: #bbbaa8;
+    margin: 0 auto;
+    margin-top: 22px;
+ }
+ .beimianxiaomi{
+ 	width: 20px;
+ 	height: 15px;
+    margin-top: 175px;
+    margin-bottom: 69px;
+    margin-left: 70px;
+    margin-right: 70px;
+    position: absolute;
+    
+
+
+ }
